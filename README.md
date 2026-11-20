@@ -1,4 +1,4 @@
-# Hi, I'm Vinay Kumar 👋
+# Hi, I'm Vinay Maurya 👋
 
 **Full-Stack Developer** focused on building fast, scalable, and maintainable web applications.
 
